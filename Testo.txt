@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="it">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Modeluxe - Futuristic Fashion</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <!-- HEADER -->
+    <header>
+        <div class="logo">MODELUXE</div>
+        <nav>
+            <ul>
+                <li><a href="#">Home</a></li>
+                <li><a href="#">Collezioni</a></li>
+                <li><a href="#">Chi Siamo</a></li>
+                <li><a href="#">Contatti</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <!-- HERO SECTION -->
+    <section class="hero">
+        <div class="hero-text">
+            <h1>Moda del Futuro</h1>
+            <p>Eleganza. Innovazione. Identità.<br>Benvenuto in Modeluxe.</p>
+            <a href="#" class="btn">Scopri la Collezione</a>
+        </div>
+    </section>
+
+    <!-- COLLECTION PREVIEW -->
+    <section class="collection">
+        <h2>Collezione 2025</h2>
+        <div class="grid">
+            <div class="card">
+                <img src="https://picsum.photos/300/400?random=1" alt="Giacca futuristica">
+                <h3>Giacca Futuristica</h3>
+                <p>Minimalismo elegante con dettagli luminosi.</p>
+            </div>
+            <div class="card">
+                <img src="https://picsum.photos/300/400?random=2" alt="Completo urbano">
+                <h3>Completo Urbano</h3>
+                <p>Linee pulite e design raffinato per la città.</p>
+            </div>
+            <div class="card">
+                <img src="https://picsum.photos/300/400?random=3" alt="Streetwear di lusso">
+                <h3>Streetwear di Lusso</h3>
+                <p>Stile audace con un tocco futuristico.</p>
+            </div>
+        </div>
+    </section>
+
+    <!-- FOOTER -->
+    <footer>
+        <p>© 2025 Modeluxe - Tutti i diritti riservati</p>
+    </footer>
+</body>
+</html>
